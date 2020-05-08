@@ -8,17 +8,7 @@ Hello World 클래스 정의
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Wolrd2");
-		System.out.println("Hello Wolrd2");
-		System.out.println("Hello Wolrd2");
-		System.out.println("Hello Wolrd2");
-		System.out.println("Hello Wolrd2");
-		System.out.println("Hello Wolrd2");
-		System.out.println("Hello Wolrd2");
-		System.out.println("Hello Wolrd2");
-		System.out.println("Hello Wolrd2");
-		
-		
+		System.out.println("Hello Wolrd");
 		
 		// 값(Vlaue)
 		int number1 = 10;
