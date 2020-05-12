@@ -19,6 +19,14 @@ public class HelloWorld {
 	}
 	
 	public static int ten() {
+		int a = 10;
+		int b = 20;
+		
+		if( a > b ) {
+			a = b * 10;
+			System.out.println(a);
+		}
+		
 		return 10;
 	}
 }
